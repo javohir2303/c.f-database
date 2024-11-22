@@ -1,0 +1,20 @@
+[
+  {
+    "id": "75a4eef0-e950-4145-8f86-7a2ebb095693",
+    "name": "melon",
+    "count": 1000,
+    "price": 250000
+  },
+  {
+    "id": "58caa594-1ef8-41d0-bf4b-dff5efd825f1",
+    "name": "apple",
+    "count": 1000,
+    "price": 250000
+  },
+  {
+    "id": "6262ce3b-ef62-4e07-a4a0-5cff0a1e6294",
+    "name": "banana",
+    "count": 7000,
+    "price": 250000
+  }
+]
